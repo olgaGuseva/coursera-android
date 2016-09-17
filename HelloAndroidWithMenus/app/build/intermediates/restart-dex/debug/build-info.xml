@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="18"
+    density="xhdpi"
+    format="7"
+    timestamp="117845256674302"
+    token="-5100985795941700108" >
+
+    <task
+        name="javac"
+        duration="34" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="17" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="117845256674302" >
+        <artifact
+            location="/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

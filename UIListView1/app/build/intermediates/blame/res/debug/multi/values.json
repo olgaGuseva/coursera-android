@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/Users/olga/coursera_android/UIListView1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/UIListView1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 26,
+                        "endColumn": 19,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 47,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/UIListView1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

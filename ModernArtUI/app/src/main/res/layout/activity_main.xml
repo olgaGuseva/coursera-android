@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222222">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/textView1"
+        android:background="@color/my_pink"
+        android:layout_margin="5dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:id="@+id/textView2"
+        android:background="@color/my_gray"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:id="@+id/textView3"
+        android:background="@color/my_blue"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:id="@+id/textView4"
+        android:background="@color/my_cian"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/textView5"
+        android:layout_gravity="center_horizontal"
+        android:padding="100dp"
+        android:layout_margin="5dp"
+        android:background="@color/my_purple"
+        android:text="5555555"
+        android:textColor="#030303"
+        android:textSize="@dimen/abc_action_bar_content_inset_material"
+        android:textStyle="bold"
+        android:visibility="visible"
+        android:width="@dimen/abc_action_bar_content_inset_material"
+        android:theme="@style/Base.Theme.AppCompat.Light.DarkActionBar"
+        android:typeface="monospace" />
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar"
+        android:layout_margin="5dp"
+        android:background="#222222"
+        android:max="0x7FFFFFFF" />
+</LinearLayout>

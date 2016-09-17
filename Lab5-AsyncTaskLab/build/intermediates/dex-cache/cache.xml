@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/olga/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/e6e664ab1b59d2504c3529f128747c13487f96ca/robotium-solo-5.3.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e6e664ab1b59d2504c3529f128747c13487f96ca">
+        <dex dex="/Users/olga/coursera_android/Lab5-AsyncTaskLab/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.3.1_5d8b91e3b47ce5092264a4b0994356c9a59b0976.jar" />
+    </item>
+    <item
+        jar="/Users/olga/coursera_android/Lab5-AsyncTaskLab/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0c5cd6a3731cdd1f0a29891215222c940fbe15ff">
+        <dex dex="/Users/olga/coursera_android/Lab5-AsyncTaskLab/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b47593495d2e51635178a5ea7480a01998074b84.jar" />
+    </item>
+    <item
+        jar="/Users/olga/coursera_android/Lab5-AsyncTaskLab/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1cc3d8bfadc3f57f076eb54cb71102a7362d0ed6">
+        <dex dex="/Users/olga/coursera_android/Lab5-AsyncTaskLab/app/build/intermediates/pre-dexed/debug/instant-run_41e325a8547fc8445fd72b9571498c7e58bdaff7.jar" />
+    </item>
+
+</items>

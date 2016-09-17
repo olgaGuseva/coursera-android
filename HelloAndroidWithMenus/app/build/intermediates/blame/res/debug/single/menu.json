@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/intermediates/res/merged/debug/menu/top_menu.xml",
+        "source": "/Users/olga/coursera_android/HelloAndroidWithMenus/app/src/main/res/menu/top_menu.xml"
+    },
+    {
+        "merged": "/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/Users/olga/coursera_android/HelloAndroidWithMenus/app/src/main/res/menu/context_menu.xml"
+    }
+]

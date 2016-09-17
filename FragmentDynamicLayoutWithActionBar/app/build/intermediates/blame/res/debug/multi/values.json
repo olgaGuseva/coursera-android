@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endLine": 20,
+                        "endColumn": 19,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endLine": 15,
+                        "endColumn": 19,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 56,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 56,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 71,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 71,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 50,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 50,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 866,
+                    "endColumn": 63,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 63,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 930,
+                    "endColumn": 50,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "/Users/olga/coursera_android/FragmentDynamicLayoutWithActionBar/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 50,
+                        "endOffset": 346
+                    }
+                }
+            }
+        ]
+    }
+]

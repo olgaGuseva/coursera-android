@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/olga/coursera_android/UIAlertDialog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0d7fc9871aa84807ab82de2fb3340702c74e9543">
+        <dex dex="/Users/olga/coursera_android/UIAlertDialog/app/build/intermediates/pre-dexed/debug/instant-run_89d2fe194476f2eba7b8bb94d7c26607d1aabbd2.jar" />
+    </item>
+    <item
+        jar="/Users/olga/coursera_android/UIAlertDialog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="23e9478f94b43446a59b85f758ee725298d1479a">
+        <dex dex="/Users/olga/coursera_android/UIAlertDialog/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2e8b6e736140ab4359aa3ec8b275335e359051f6.jar" />
+    </item>
+
+</items>

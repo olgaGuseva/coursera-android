@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ad28b9106bb7c610b12dd827abfa5a775e945525">
+        <dex dex="/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/intermediates/pre-dexed/debug/instant-run_eb81812155bb242d4fb558a48f2542f8a29a7bae.jar" />
+    </item>
+    <item
+        jar="/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c9ab82275cd7a0d24fe998f820594001fd17ee46">
+        <dex dex="/Users/olga/coursera_android/HelloAndroidWithMenus/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_99e8866719a4c6931499362b6a3271461923486c.jar" />
+    </item>
+
+</items>
